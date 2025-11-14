@@ -105,11 +105,10 @@ font_manager.change_text_color(0,3,letters_color,background_color);             
 ~~~~
 
 </details>
-<br/>
 
-> [!NOTE]
-> detailed documentation about each function in this class are inside header file "cSDL_FontManager.h";
 
+### ℹ️ Note:
+<H4 align="center">detailed documentation about each function in this class is inside header file "cSDL_FontManager.h";</H4> 
 
 
 
